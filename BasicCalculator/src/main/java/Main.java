@@ -15,7 +15,7 @@ public class Main {
         System.out.print("Enter the second number: " );
         int num2 = scanner.nextInt();
     //declaring total variable to store result of num1 & num2
-        int total = num1 / num2;
+        int total = num1 * num2;
     //print the total
         System.out.print("Total is: " + total);
 
