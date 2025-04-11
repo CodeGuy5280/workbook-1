@@ -18,6 +18,6 @@ public class Main {
         int total = num1 * num2;
     //print the total
         System.out.print("Total is: " + total);
-
+    scanner.close();
     }
 }
